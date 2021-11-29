@@ -1,5 +1,5 @@
 # Minha_Bio 
-Nome: Guilherme de Souza Salazar<\br>
+Nome: Guilherme de Souza Salazar<br/>
 Faculdade: Ciência da Computação (em curso)
 E-mail: guilhermesalazarsouza@gmail.com
 
